@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/tailspin29102019/Space%20Game%20-%20Web/_apis/build/status/estudocertificacao.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/tailspin29102019/Space%20Game%20-%20Web/_build/latest?definitionId=1&branchName=master)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=space-game-web-0711&metric=alert_status)](https://sonarcloud.io/dashboard?id=space-game-web-0711) [![Build Status](https://dev.azure.com/tailspin29102019/Space%20Game%20-%20Web/_apis/build/status/estudocertificacao.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/tailspin29102019/Space%20Game%20-%20Web/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
